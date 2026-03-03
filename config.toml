@@ -7,7 +7,7 @@ true-color = true
 bufferline = "always" 
 cursorline = true
 color-modes = true
-clipboard-provider = "windows"
+clipboard-provider = "wayland"
 default-yank-register = "+"
 
 [editor.cursor-shape]
